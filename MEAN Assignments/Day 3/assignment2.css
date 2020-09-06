@@ -1,0 +1,10 @@
+.main {
+  height: 75px;
+  background: lightblue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  margin-bottom: 1px;
+}
